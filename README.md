@@ -26,6 +26,7 @@ Dieses Prompt erstellt **Single-Choice-Fragen**, ähnlich den Multiple-Choice-Fr
 
 🔗 [Prompt](h5p/single-choice.md)
 🔗 [Tutorial H5P](https://h5p.org/documentation/content-author-guide/tutorials-for-authors/single-choice-set)
+
 ---
 
 ### 🔹 [Zusammenfassung](h5p/summary.md)
