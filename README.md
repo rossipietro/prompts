@@ -1,6 +1,6 @@
-# H5P-Prompts-Repository
+# H5P-Prompts-Bibliothek
 
-Willkommen im **H5P-Prompts**-Repository! Dieses Repository enthält strukturierte Prompt-Vorlagen zur Erstellung verschiedener Bildungsfragen im H5P-Format. Diese Prompts sind für Schweizer Schüler im Alter von 15 bis 20 Jahren konzipiert und basieren auf der **Bloom'schen Taxonomie**, um ein progressives Lernen zu gewährleisten.
+Willkommen im **H5P-Prompts**-Bibliothek! Dieses Repository enthält strukturierte Prompt-Vorlagen zur Erstellung verschiedener Bildungsfragen im H5P-Format. Diese Prompts sind für Schweizer Schüler im Alter von 15 bis 20 Jahren konzipiert und basieren auf der **Bloom'schen Taxonomie**, um ein progressives Lernen zu gewährleisten.
 
 ## 📁 Verzeichnisstruktur
 ```
